@@ -2,6 +2,8 @@
 .vscode/
 .vs/
 cmake-build-debug/
+cmake-build-release/
+cmake-build-web/
 bin/
 build/
 out/
